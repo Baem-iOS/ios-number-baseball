@@ -7,7 +7,7 @@
 ## 3. 팀원
 | baem | 준호 |
 | -------- | -------- |
-| <img width="160px" src="https://cdn.discordapp.com/attachments/1007898491630145587/1010091194807750716/11.png">| <img width="180px" src="https://media.discordapp.net/attachments/1007898491630145587/1010092142464614500/unknown.png">|
+| <img width="160px" src="https://cdn.discordapp.com/attachments/1007898491630145587/1010091194807750716/11.png">| <img width="180px" src="https://cdn.discordapp.com/attachments/1007898491630145587/1010092756057735169/unknown.png">|
 
 ## 4. 타임라인: 시간 순으로 프로젝트의 주요 진행 척도를 표시
 * STEP 1
